@@ -1,0 +1,10 @@
+BindDone: 2024
+ListenDone: 2024
+Client: 127.0.0.1:35774
+Welcome user1
+Client: 127.0.0.1:35778
+Welcome user2
+user1: Transferring Message 6
+Bye user1
+user2: Transferring Message 7
+Bye user2

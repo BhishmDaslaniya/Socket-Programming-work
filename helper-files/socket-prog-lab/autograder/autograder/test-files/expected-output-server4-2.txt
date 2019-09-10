@@ -1,0 +1,16 @@
+BindDone: 2022
+ListenDone: 2022
+Client: 127.0.0.1:57904
+Welcome user1
+Client: 127.0.0.1:57908
+Welcome user2
+user2: Transferring Message 1
+user2: Transferring Message 2
+user2: Transferring Message 3
+user2: Transferring Message 4
+Bye user2
+user1: Transferring Message 2
+user1: Transferring Message 3
+user1: Transferring Message 4
+user1: Transferring Message 5
+Bye user1
